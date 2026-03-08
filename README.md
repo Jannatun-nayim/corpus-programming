@@ -23,7 +23,7 @@ The repository is designed for **linguistic, and NLP researches**, corpus-based 
 - Word and phrase frequency statistics
 - N-gram generation
 - Concordance search
-- Keyword-in-context (KWIC) analysis
+- Keyword-in-context analysis
 - Modular scripts for extending functionality
 
 
